@@ -29,7 +29,7 @@ export default function Navbar() {
                         />
                     </div>
                     <div>
-                        <h4 className="text-xl font-bold text-white">Bravespace Tech</h4>
+                        <h4 className="text-xl font-bold text-white">Bravospace 294 Tech</h4>
                         <p className="text-xs text-blue-300 font-semibold">Build Beyond Limits</p>
                     </div>
                 </div>
