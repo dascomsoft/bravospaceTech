@@ -1,12 +1,45 @@
-# React + Vite
+# Bravospace Tech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Bravospace Tech** is a young and dynamic digital agency based in **South Africa**. We specialize in helping **small businesses and startups** embrace digital transformation through modern, customized solutions.
 
-Currently, two official plugins are available:
+This project was built using:
+- ⚛️ React.js
+- ⚡ Vite
+- 🎨 Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌍 About Bravospace Tech
+
+At Bravespace Tech, we believe in the power of technology to uplift and transform. Our team is passionate about crafting clean, responsive websites and performant web/mobile applications tailored to each client’s unique needs.
+
+We offer:
+- Website development
+- Web & mobile application design
+- SEO optimization and consulting
+
+We operate entirely online, ensuring **confidentiality**, **security**, and **quality** for every project we handle.
+
+
+
+## 🎯 Our Mission
+
+To **democratize access to digital technologies** for African and international businesses by providing innovative, accessible, and scalable digital solutions that drive **growth** and **competitiveness**.
+
+
+## 💡 Why Choose Us?
+
+✅ Customized solutions that fit your **budget**  
+✅ Use of **modern technologies** and industry **best practices**  
+✅ **Training** and **technical support** included  
+✅ Full **confidentiality** and **secure delivery**
+
+
+## 🔗 Contact
+
+We’re always open to collaboration and new ideas.  
+📧 dascomsoft@gmail.com
+
+
+
+** Built with ❤️ using React.js, Vite, and Tailwind CSS.
