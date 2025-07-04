@@ -28,7 +28,7 @@ const Hero = () => {
             </h1>
 
             <p className="text-xl text-muted-foreground leading-relaxed" data-aos="fade-up" data-aos-delay="300">
-              Bravespace Tech supports you in creating modern websites,
+              Bravospace 294 Tech supports you in creating modern websites,
               custom web and mobile applications. Digital solutions tailored to
               ambitious small businesses and startups.
             </p>

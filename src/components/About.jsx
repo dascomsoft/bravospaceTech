@@ -46,7 +46,7 @@ const About = () => {
           <div className="space-y-8" data-aos="fade-right">
             <div>
               <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6" data-aos="fade-up">
-                About <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">Bravespace Tech</span>
+                About <span className="bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">Bravospace 294 Tech</span>
               </h2>
               <p className="text-xl text-muted-foreground leading-relaxed mb-6" data-aos="fade-up" data-aos-delay="100">
                 Digital agency registered in South Africa, we support small businesses
